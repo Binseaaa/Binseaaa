@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xplct-cont&column=3&margin-w=5&margin-h=5" alt="xplct-cont" /></a> </p>
 
 
-- 💬 How to reach me **kennsecusana@gmail.com**
+- 💬 How to reach me **deguma.vince@gmail.com**
 
-- 📫 Know about my experiences **https://kennsecusana.jobs180.com/**
+- 📫 Know about my experiences **https://vincedeguma.jobs180.com/**
 
 <p align="left">
 </p>
